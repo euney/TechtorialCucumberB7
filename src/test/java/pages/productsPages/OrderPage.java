@@ -111,7 +111,7 @@ public class OrderPage {
                     break;
 
                 default:
-                    System.out.println("Not correct,change the card");
+                    System.out.println("Invalid  card type,change the card type please!");
             }
         }
         public void sendPaymentInfo(String cardType, String cardNumber,String expireDate){

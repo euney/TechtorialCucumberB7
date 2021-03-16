@@ -3,7 +3,7 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2021-03-13T17:45:22.543Z",
+        "start_timestamp": "2021-03-14T19:18:10.966Z",
         "line": 23,
         "name": "Validation of New Product Creation",
         "description": "",
@@ -13,7 +13,7 @@
         "steps": [
           {
             "result": {
-              "duration": 3004688000,
+              "duration": 5107461000,
               "status": "passed"
             },
             "line": 15,
@@ -25,7 +25,7 @@
           },
           {
             "result": {
-              "duration": 317175000,
+              "duration": 596315000,
               "status": "passed"
             },
             "line": 16,
@@ -47,7 +47,7 @@
           },
           {
             "result": {
-              "duration": 274755000,
+              "duration": 841160000,
               "status": "passed"
             },
             "line": 17,
@@ -81,7 +81,7 @@
           },
           {
             "result": {
-              "duration": 277713000,
+              "duration": 450741000,
               "status": "passed"
             },
             "line": 18,
@@ -107,7 +107,7 @@
           },
           {
             "result": {
-              "duration": 28768000,
+              "duration": 409641000,
               "status": "passed"
             },
             "line": 19,
@@ -119,7 +119,7 @@
           },
           {
             "result": {
-              "duration": 347343000,
+              "duration": 798785000,
               "status": "passed"
             },
             "line": 20,
@@ -182,7 +182,7 @@
         ]
       },
       {
-        "start_timestamp": "2021-03-13T17:45:26.940Z",
+        "start_timestamp": "2021-03-14T19:18:19.228Z",
         "line": 24,
         "name": "Validation of New Product Creation",
         "description": "",
@@ -192,7 +192,7 @@
         "steps": [
           {
             "result": {
-              "duration": 561611000,
+              "duration": 652088000,
               "status": "passed"
             },
             "line": 15,
@@ -204,7 +204,7 @@
           },
           {
             "result": {
-              "duration": 259055000,
+              "duration": 356930000,
               "status": "passed"
             },
             "line": 16,
@@ -226,7 +226,7 @@
           },
           {
             "result": {
-              "duration": 268944000,
+              "duration": 478773000,
               "status": "passed"
             },
             "line": 17,
@@ -260,7 +260,7 @@
           },
           {
             "result": {
-              "duration": 179236000,
+              "duration": 633894000,
               "status": "passed"
             },
             "line": 18,
@@ -286,7 +286,7 @@
           },
           {
             "result": {
-              "duration": 123354000,
+              "duration": 123843000,
               "status": "passed"
             },
             "line": 19,
@@ -298,7 +298,7 @@
           },
           {
             "result": {
-              "duration": 435944000,
+              "duration": 698976000,
               "status": "passed"
             },
             "line": 20,
@@ -361,7 +361,7 @@
         ]
       },
       {
-        "start_timestamp": "2021-03-13T17:45:28.791Z",
+        "start_timestamp": "2021-03-14T19:18:22.197Z",
         "line": 25,
         "name": "Validation of New Product Creation",
         "description": "",
@@ -371,7 +371,7 @@
         "steps": [
           {
             "result": {
-              "duration": 616556000,
+              "duration": 774958000,
               "status": "passed"
             },
             "line": 15,
@@ -383,7 +383,7 @@
           },
           {
             "result": {
-              "duration": 263396000,
+              "duration": 461459000,
               "status": "passed"
             },
             "line": 16,
@@ -405,7 +405,7 @@
           },
           {
             "result": {
-              "duration": 263280000,
+              "duration": 554767000,
               "status": "passed"
             },
             "line": 17,
@@ -439,7 +439,7 @@
           },
           {
             "result": {
-              "duration": 305676000,
+              "duration": 417927000,
               "status": "passed"
             },
             "line": 18,
@@ -465,7 +465,7 @@
           },
           {
             "result": {
-              "duration": 22188000,
+              "duration": 136265000,
               "status": "passed"
             },
             "line": 19,
@@ -477,7 +477,7 @@
           },
           {
             "result": {
-              "duration": 347037000,
+              "duration": 563634000,
               "status": "passed"
             },
             "line": 20,
@@ -540,7 +540,7 @@
         ]
       },
       {
-        "start_timestamp": "2021-03-13T17:45:30.623Z",
+        "start_timestamp": "2021-03-14T19:18:25.131Z",
         "line": 26,
         "name": "Validation of New Product Creation",
         "description": "",
@@ -550,7 +550,7 @@
         "steps": [
           {
             "result": {
-              "duration": 537166000,
+              "duration": 655290000,
               "status": "passed"
             },
             "line": 15,
@@ -562,7 +562,7 @@
           },
           {
             "result": {
-              "duration": 228887000,
+              "duration": 302114000,
               "status": "passed"
             },
             "line": 16,
@@ -584,7 +584,7 @@
           },
           {
             "result": {
-              "duration": 240631000,
+              "duration": 394325000,
               "status": "passed"
             },
             "line": 17,
@@ -618,7 +618,7 @@
           },
           {
             "result": {
-              "duration": 261752000,
+              "duration": 390439000,
               "status": "passed"
             },
             "line": 18,
@@ -644,7 +644,7 @@
           },
           {
             "result": {
-              "duration": 21873000,
+              "duration": 25926000,
               "status": "passed"
             },
             "line": 19,
@@ -656,7 +656,7 @@
           },
           {
             "result": {
-              "duration": 365235000,
+              "duration": 575689000,
               "status": "passed"
             },
             "line": 20,

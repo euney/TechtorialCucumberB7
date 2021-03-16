@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d1bad243-0b40-46a7-9c47-66fd05f16296" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/productsPages/OrderPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/productsPages/OrderPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-html-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/com/ebaypages/EbayHomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/com/ebaypages/EbayHomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/com/ebaypages/EbaySearchResultsPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/com/ebaypages/EbaySearchResultsPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/duckduckgopages/DuckDuckGoSearchResults.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/duckduckgopages/DuckDuckGoSearchResults.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/duckduckgopages/DuckDuckHomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/duckduckgopages/DuckDuckHomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/etsyPages/EtsyHomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/etsyPages/EtsyHomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/herokuapp/FramePages.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/herokuapp/FramePages.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/productpages/ProductLoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/productpages/ProductLoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/productsPages/OrderPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/productsPages/OrderPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/weborderpages/GroupOrderPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/weborderpages/GroupOrderPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/weborderpages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/weborderpages/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/weborderpages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/weborderpages/LoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/runner/ReRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/runner/ReRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/runner/cukesRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/runner/cukesRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/runner/etsy/EtsyRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/runner/etsy/EtsyRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/runner/products/productRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/runner/products/productRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steps/Hook/Hooks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/steps/Hook/Hooks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steps/PrintInfoSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/steps/PrintInfoSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steps/com/duckduckgosteps/DuckDuckGoSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/steps/com/duckduckgosteps/DuckDuckGoSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steps/com/ebaysteps/EbaySearchSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/steps/com/ebaysteps/EbaySearchSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steps/com/etsy/EtsySearchSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/steps/com/etsy/EtsySearchSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steps/com/herokuapp/frameSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/steps/com/herokuapp/frameSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steps/com/productSteps/productsSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/steps/com/productSteps/productsSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steps/com/webordersteps/LoginSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/steps/com/webordersteps/LoginSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steps/com/webordersteps/NewGroupSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/steps/com/webordersteps/NewGroupSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steps/dataTestSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/steps/dataTestSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utils/BrowserUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utils/BrowserUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utils/ConfigReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utils/ConfigReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utils/Driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utils/Driver.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pE6PsHPJjBAOVPqnMHy8sCcQtY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources/duckduckgo" />
+      <recent name="$PROJECT_DIR$/src/test/resources/com.ebay" />
+      <recent name="$PROJECT_DIR$/src/test/resources/com.weborder" />
+      <recent name="$PROJECT_DIR$/src/test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.productRunner">
+    <configuration name="Feature: CucumberString" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/com.weborder/CucumberString.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="TechtorialCucumber" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: CucumberString" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Sending large String" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/com.weborder/CucumberString.feature" />
+      <option name="GLUE" value="steps.Hook steps.com.etsy" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="TechtorialCucumber" />
+      <option name="NAME_FILTER" value="^Sending large String$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Sending large String$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Sending large String" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TechtorialCucumber" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runner" />
+      <option name="MAIN_CLASS_NAME" value="runner.ReRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cukesRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TechtorialCucumber" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runner" />
+      <option name="MAIN_CLASS_NAME" value="runner.cukesRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="productRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TechtorialCucumber" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runner.products.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runner.products" />
+      <option name="MAIN_CLASS_NAME" value="runner.products.productRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.productRunner" />
+        <item itemvalue="JUnit.ReRunner" />
+        <item itemvalue="JUnit.cukesRunner" />
+        <item itemvalue="Cucumber Java.Scenario: Sending large String" />
+        <item itemvalue="Cucumber Java.Feature: CucumberString" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1bad243-0b40-46a7-9c47-66fd05f16296" name="Default Changelist" comment="" />
+      <created>1614735883725</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614735883725</updated>
+    </task>
+    <task id="LOCAL-00001" summary="making changes in local repository">
+      <created>1615665215513</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615665215513</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="making changes in local repository" />
+    <option name="LAST_COMMIT_MESSAGE" value="making changes in local repository" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="425" y="243" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615146115592">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="425" y="243" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.822@0.23.1440.822" timestamp="1615146115592" />
+    <state x="425" y="243" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.823@0.23.1440.823" timestamp="1615090452817" />
+    <state x="439" y="582" width="474" height="275" key="#xdebugger.evaluate" timestamp="1615351292152">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="439" y="582" width="474" height="275" key="#xdebugger.evaluate/0.23.1440.834@0.23.1440.834" timestamp="1615351292152" />
+    <state x="321" y="23" key="CommitChangelistDialog2" timestamp="1615665215264">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="321" y="23" key="CommitChangelistDialog2/0.23.1440.825@0.23.1440.825" timestamp="1615665215264" />
+    <state width="1398" height="214" key="GridCell.Tab.0.bottom" timestamp="1615666347409">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1398" height="275" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1615510532436" />
+    <state width="1390" height="112" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1615135794566" />
+    <state width="1390" height="217" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1615148870985" />
+    <state width="1398" height="214" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1615655381147" />
+    <state width="1398" height="214" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1615666347409" />
+    <state width="1398" height="214" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1615656695946" />
+    <state width="1398" height="214" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1615656802352" />
+    <state width="1398" height="214" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1615656916258" />
+    <state width="1398" height="214" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1615657023946" />
+    <state width="1398" height="214" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1615657520994" />
+    <state width="1390" height="238" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1615351036160" />
+    <state width="1390" height="238" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1615351057204" />
+    <state width="1390" height="240" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1615351294481" />
+    <state width="1390" height="240" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1615351438570" />
+    <state width="1398" height="214" key="GridCell.Tab.0.center" timestamp="1615666347407">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1398" height="275" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1615510532434" />
+    <state width="1390" height="112" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1615135794566" />
+    <state width="1390" height="217" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1615148870984" />
+    <state width="1398" height="214" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1615655381147" />
+    <state width="1398" height="214" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1615666347407" />
+    <state width="1398" height="214" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1615656695944" />
+    <state width="1398" height="214" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1615656802351" />
+    <state width="1398" height="214" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1615656916257" />
+    <state width="1398" height="214" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1615657023946" />
+    <state width="1398" height="214" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1615657520993" />
+    <state width="1390" height="238" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1615351036160" />
+    <state width="1390" height="238" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1615351057203" />
+    <state width="1390" height="240" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1615351294480" />
+    <state width="1390" height="240" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1615351438569" />
+    <state width="1398" height="214" key="GridCell.Tab.0.left" timestamp="1615666347406">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1398" height="275" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1615510532432" />
+    <state width="1390" height="112" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1615135794565" />
+    <state width="1390" height="217" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1615148870984" />
+    <state width="1398" height="214" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1615655381146" />
+    <state width="1398" height="214" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1615666347406" />
+    <state width="1398" height="214" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1615656695944" />
+    <state width="1398" height="214" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1615656802351" />
+    <state width="1398" height="214" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1615656916257" />
+    <state width="1398" height="214" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1615657023945" />
+    <state width="1398" height="214" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1615657520993" />
+    <state width="1390" height="238" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1615351036159" />
+    <state width="1390" height="238" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1615351057203" />
+    <state width="1390" height="240" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1615351294478" />
+    <state width="1390" height="240" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1615351438569" />
+    <state width="1398" height="214" key="GridCell.Tab.0.right" timestamp="1615666347408">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1398" height="275" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1615510532435" />
+    <state width="1390" height="112" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1615135794566" />
+    <state width="1390" height="217" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1615148870985" />
+    <state width="1398" height="214" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1615655381147" />
+    <state width="1398" height="214" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1615666347408" />
+    <state width="1398" height="214" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1615656695945" />
+    <state width="1398" height="214" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1615656802351" />
+    <state width="1398" height="214" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1615656916258" />
+    <state width="1398" height="214" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1615657023946" />
+    <state width="1398" height="214" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1615657520994" />
+    <state width="1390" height="238" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1615351036160" />
+    <state width="1390" height="238" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1615351057204" />
+    <state width="1390" height="240" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1615351294481" />
+    <state width="1390" height="240" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1615351438570" />
+    <state width="1390" height="240" key="GridCell.Tab.1.bottom" timestamp="1615351438572">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1390" height="240" key="GridCell.Tab.1.bottom/0.23.1440.833@0.23.1440.833" timestamp="1615351294483" />
+    <state width="1390" height="240" key="GridCell.Tab.1.bottom/0.23.1440.834@0.23.1440.834" timestamp="1615351438572" />
+    <state width="1390" height="240" key="GridCell.Tab.1.center" timestamp="1615351438571">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1390" height="240" key="GridCell.Tab.1.center/0.23.1440.833@0.23.1440.833" timestamp="1615351294482" />
+    <state width="1390" height="240" key="GridCell.Tab.1.center/0.23.1440.834@0.23.1440.834" timestamp="1615351438571" />
+    <state width="1390" height="240" key="GridCell.Tab.1.left" timestamp="1615351438571">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1390" height="240" key="GridCell.Tab.1.left/0.23.1440.833@0.23.1440.833" timestamp="1615351294481" />
+    <state width="1390" height="240" key="GridCell.Tab.1.left/0.23.1440.834@0.23.1440.834" timestamp="1615351438571" />
+    <state width="1390" height="240" key="GridCell.Tab.1.right" timestamp="1615351438571">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1390" height="240" key="GridCell.Tab.1.right/0.23.1440.833@0.23.1440.833" timestamp="1615351294482" />
+    <state width="1390" height="240" key="GridCell.Tab.1.right/0.23.1440.834@0.23.1440.834" timestamp="1615351438571" />
+    <state x="233" y="75" key="SettingsEditor" timestamp="1614737337950">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="233" y="75" key="SettingsEditor/0.23.1440.823@0.23.1440.823" timestamp="1614737337950" />
+    <state x="334" y="160" key="Vcs.Push.Dialog.v2" timestamp="1615666161348">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="334" y="160" key="Vcs.Push.Dialog.v2/0.23.1440.825@0.23.1440.825" timestamp="1615666161348" />
+    <state x="556" y="321" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1615666151832">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="556" y="321" key="git4idea.remote.GitConfigureRemotesDialog/0.23.1440.825@0.23.1440.825" timestamp="1615666151832" />
+    <state x="160" y="71" key="new project wizard" timestamp="1615742664323">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="354" y="203" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1615510328476" />
+    <state x="160" y="71" key="new project wizard/0.23.1440.825@0.23.1440.825" timestamp="1615742664323" />
+    <state x="389" y="170" width="670" height="678" key="search.everywhere.popup" timestamp="1615350152675">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="389" y="170" width="670" height="676" key="search.everywhere.popup/0.23.1440.823@0.23.1440.823" timestamp="1615350026752" />
+    <state x="389" y="170" width="670" height="678" key="search.everywhere.popup/0.23.1440.825@0.23.1440.825" timestamp="1615350152675" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/steps/com/productSteps/productsSteps.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
